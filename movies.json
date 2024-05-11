@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "806727990674",
+    "firebase_url": "https://victus-706a7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "victus-706a7",
+    "storage_bucket": "victus-706a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806727990674:android:f28eda4c2a69a7caa0154b",
+        "android_client_info": {
+          "package_name": "pranghi.miu.victus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806727990674-j2h9jq5740ffap5348j7u6k1d6piggjj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pranghi.miu.victus",
+            "certificate_hash": "ba7312f67dcc0355ce92149652727c6a8b723ee8"
+          }
+        },
+        {
+          "client_id": "806727990674-cf4hr72d3qu1cf89eig1b7ohag101jme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuVYx9l2L4u1DZwsQsZBt9rbR16F6X8D0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806727990674-cf4hr72d3qu1cf89eig1b7ohag101jme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
